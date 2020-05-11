@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyRealtime</string>
+    <string name="pesan">Pesan</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="Send">Send</string>
+    <string name="gopage">Go Page 2</string>
+</resources>
